@@ -8,7 +8,7 @@
 <ip xmlns="http://www.geni.net/resources/rspec/3" address="192.168.1.10" type="ipv4" netmask="255.255.255.0"/>
 </interface>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-5">
-<ip xmlns="http://www.geni.net/resources/rspec/3" address="19.168.3.10" type="ipv4" netmask="255.255.255.0"/>
+<ip xmlns="http://www.geni.net/resources/rspec/3" address="192.168.3.10" type="ipv4" netmask="255.255.255.0"/>
 </interface>
 </node>
 <node xmlns="http://www.geni.net/resources/rspec/3" client_id="node-B">
